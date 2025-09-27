@@ -1,11 +1,4 @@
 # Ubuntu_Requests
-
-# Ubuntu-Inspired Image Fetcher 🖼️
-
-> *"I am because we are"* — Ubuntu Philosophy  
-
-This project is a simple Python tool that demonstrates the spirit of Ubuntu by connecting to the global web community, respectfully fetching shared images, and organizing them for later appreciation.  
-
 ---
 
 ## 🌍 Project Overview
